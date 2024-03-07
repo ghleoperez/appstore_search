@@ -1,0 +1,30 @@
+App Name: CBS News - Watch Free Live Breaking News
+Bundle ID: com.H443NM7F8H.CBSNews
+
+App Name: Google Chrome
+Bundle ID: com.google.chrome.ios
+
+App Name: Google Earth
+Bundle ID: com.google.b612
+
+App Name: Google Maps - Navigation & Transit
+Bundle ID: com.google.Maps
+
+App Name: Google Translate
+Bundle ID: com.google.Translate
+
+App Name: Hilton Honors: Book Hotels
+Bundle ID: com.hilton.hhonors
+
+App Name: Microsoft Outlook
+Bundle ID: com.microsoft.Office.Outlook
+
+App Name: Microsoft Teams
+Bundle ID: com.microsoft.skype.teams
+
+App Name: Speedtest by Ookla
+Bundle ID: com.ookla.speedtest
+
+App Name: ZOOM Cloud Meetings
+Bundle ID: org.macmanus.motionforzoom
+
